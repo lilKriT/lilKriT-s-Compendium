@@ -14,6 +14,7 @@ A collection of guides, advice and crash courses I found.
 
 # Concepts
 
+[Web Design](https://github.com/lilKriT/Web-Design-Fundamentals)
 [SEO](https://github.com/lilKriT/SEO-Fundamentals)
 
 # More Niche Tools
