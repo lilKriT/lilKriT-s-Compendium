@@ -11,11 +11,13 @@ A collection of guides, advice and crash courses I found.
 # Languages
 
 [TypeScript](https://github.com/lilKriT/TypeScript-Crash-Course)
+
 [SVG](https://github.com/lilKriT/SVG-Crash-Course)
 
 # Concepts
 
 [Web Design](https://github.com/lilKriT/Web-Design-Fundamentals)
+
 [SEO](https://github.com/lilKriT/SEO-Fundamentals)
 
 # More Niche Tools
