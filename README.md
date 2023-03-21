@@ -11,6 +11,7 @@ A collection of guides, advice and crash courses I found.
 # Languages
 
 [TypeScript](https://github.com/lilKriT/TypeScript-Crash-Course)
+[SVG](https://github.com/lilKriT/SVG-Crash-Course)
 
 # Concepts
 
